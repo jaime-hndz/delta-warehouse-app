@@ -1,0 +1,90 @@
+C:\Users\blacktip\AppData\Local\Temporary Projects\Login Cnumeral\bin\Debug\Login Cnumeral.exe.config
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.exe.config
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.exe
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.pdb
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.csprojResolveAssemblyReference.cache
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Form1.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Properties.Resources.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.csproj.GenerateResource.Cache
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.exe
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.pdb
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.exe.config
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.exe
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Form1.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Properties.Resources.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.exe
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\bin\Debug\Login Cnumeral.pdb
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login Cnumeral.pdb
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Form3.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Registro.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.FormAdmin.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Acercade.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir.resources
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\RdlCompile.cache
+C:\Users\jaime\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\RdlCompile.compiled
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Acercade.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.FormAdmin.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Form3.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\Login_Cnumeral.Registro.resources
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\RdlCompile.cache
+C:\Users\blacktip\Desktop\todo sobre el login C#\Login Cnumeral\Login Cnumeral\obj\Debug\RdlCompile.compiled
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login Cnumeral.csprojResolveAssemblyReference.cache
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Acercade.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Form1.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Properties.Resources.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Registro.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login Cnumeral.csproj.GenerateResource.Cache
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Proveedores.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Acercade.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Form1.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Properties.Resources.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Proveedores.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Registro.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login Cnumeral.csproj.GenerateResource.Cache
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\RdlCompile.cache
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\RdlCompile.compiled
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir2.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormStandar.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir2.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormAdmin.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormStandar.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormAdmin.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormEmpleados.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormNomina.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormNomina.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.FormEmpleados.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Screen.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Screen.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir_Nomina.resources
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Factura.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Factura.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login_Cnumeral.Imprimir_Nomina.resources
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\ALMACEN.sdf
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\RdlCompile.cache
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\RdlCompile.compiled
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\ALMACEN.sdf
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe.config
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe.manifest
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.application
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.pdb
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.exe.manifest
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.application
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.exe
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.pdb
+C:\Users\jaime\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Login Cnumeral.csprojResolveAssemblyReference.cache
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe.config
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.exe
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.pdb
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe.manifest
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.application
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.exe
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\bin\Debug\Delta Storage Software.pdb
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.exe.manifest
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\Delta Storage Software.application
+C:\Users\blacktip\Desktop\todo sobre PROYECTO FINAL Csharp\ALMACEN Csharp\Login Cnumeral\obj\Debug\GUI_V_2.Ayuda.resources
